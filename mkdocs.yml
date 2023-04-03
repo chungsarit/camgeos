@@ -48,5 +48,7 @@ nav:
     - FAQ: faq.md
     - Changelog: changelog.md
     - Report Issues: https://github.com/chungsarit/camgeos/issues
+    - Example:
+        - example/intro.ipynb
     - API Reference:
           - camgeos module: camgeos.md
