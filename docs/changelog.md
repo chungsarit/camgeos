@@ -1,11 +1,9 @@
 # Changelog
 
-## v0.0.1 - Date
+## v0.0.2 - Date April 04, 2023
 
-**Improvement**:
+- Created documention webstie
 
--   TBD
+## v0.0.1 - Date April 03, 2023
 
-**New Features**:
-
--   TBD
+- Intial release
