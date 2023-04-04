@@ -50,5 +50,6 @@ nav:
     - Report Issues: https://github.com/chungsarit/camgeos/issues
     - Example:
         - examples/intro.ipynb
+        - examples/folium.ipynb
     - API Reference:
           - camgeos module: camgeos.md
