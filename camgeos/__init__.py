@@ -2,6 +2,6 @@
 
 __author__ = """Chung Sarit"""
 __email__ = 'sarithchung168@gmail.com'
-__version__ = '0.0.2'
+__version__ = '0.0.3'
 
 from .camgeos import *
