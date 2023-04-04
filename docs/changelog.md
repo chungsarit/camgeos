@@ -1,6 +1,6 @@
 # Changelog
 
-## v0.0.3 - Date April 04, 2023
+## v0.0.3 and v0.0.4- Date April 04, 2023
 
 - Adding notebook for intro in documentation website
 
