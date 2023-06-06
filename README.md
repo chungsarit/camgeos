@@ -1,4 +1,4 @@
-# camgeos
+# camgeos (DEMO)
 
 
 [![image](https://img.shields.io/pypi/v/camgeos.svg)](https://pypi.python.org/pypi/camgeos)
