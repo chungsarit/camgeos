@@ -9,7 +9,7 @@
     ],
     "maxValue": 1000,
     "minValue": 0,
-    "url": "https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/maps/b4787652b8040082a14a11991dfd6097-f50f5b43ca84e51661d9431d2431c596/tiles/{z}/{x}/{y}"
+    "url": "https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/maps/b4787652b8040082a14a11991dfd6097-527c21be0a47d7204731584e1e8cd9ef/tiles/{z}/{x}/{y}"
   },
   "Max water extent": {
     "colorPalette": [
@@ -17,7 +17,7 @@
     ],
     "maxValue": 1,
     "minValue": 0,
-    "url": "https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/maps/2ee05b85574ebc72b45329978c376abc-f3d1e8e9002f3186f969450fb2acea25/tiles/{z}/{x}/{y}"
+    "url": "https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/maps/2ee05b85574ebc72b45329978c376abc-b93e239556a74b992f44fb4c896eee56/tiles/{z}/{x}/{y}"
   },
   "Permanent water": {
     "colorPalette": [
@@ -25,7 +25,7 @@
     ],
     "maxValue": 1,
     "minValue": 0,
-    "url": "https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/maps/2e32ff09754aff9792837c7fa665ccd3-ff225e17bf660f2a4e5b8f0df176b0b6/tiles/{z}/{x}/{y}"
+    "url": "https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/maps/2e32ff09754aff9792837c7fa665ccd3-e5b38131a2d011e6191119e80a15ea07/tiles/{z}/{x}/{y}"
   },
   "Water occurrence": {
     "colorPalette": [
@@ -35,6 +35,6 @@
     ],
     "maxValue": 100,
     "minValue": 0,
-    "url": "https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/maps/647fe7f29e5022051364d85bd4cc70c2-f9d9f9f478e138356ed1d62d6c9b8a81/tiles/{z}/{x}/{y}"
+    "url": "https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/maps/dcaa40a56ec3832fddfa48d1ca17f969-ba4ead513377e2a96bd47a981a96bfc8/tiles/{z}/{x}/{y}"
   }
 }
