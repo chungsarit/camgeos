@@ -1,1 +1,39 @@
-{"Copernicus DEM":{"colorPalette":["#006633","#E5FFCC","#662A00","#D8D8D8","#F5F5F5"],"maxValue":1000,"minValue":0,"url":"https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/maps/84bcaa4b58f6552de61584dc3ddc5138-85e2511542c988152b589cf83b992b78/tiles/{z}/{x}/{y}"},"Max water extent":{"colorPalette":["blue"],"maxValue":1,"minValue":0,"url":"https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/maps/37122bcb731cdc18bf9b7e0df0672ecf-22e872e9319b06e093511aff2e5fae66/tiles/{z}/{x}/{y}"},"Permanent water":{"colorPalette":["blue"],"maxValue":1,"minValue":0,"url":"https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/maps/8f84859ef6fdb04fe10e08d1182fa380-efd401aa4f19bff6d91950a5c3016da3/tiles/{z}/{x}/{y}"},"Water occurrence":{"colorPalette":["red","blue"],"maxValue":100,"minValue":0,"url":"https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/maps/54925f53df2ea08254dba1693649aa5c-116e5a5d8dd295a2d3886295d66cf04d/tiles/{z}/{x}/{y}"}}
+{
+  "Copernicus DEM": {
+    "colorPalette": [
+      "#006633",
+      "#E5FFCC",
+      "#662A00",
+      "#D8D8D8",
+      "#F5F5F5"
+    ],
+    "maxValue": 1000,
+    "minValue": 0,
+    "url": "https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/maps/84bcaa4b58f6552de61584dc3ddc5138-46d9b7ad09cf1d575aeeeeb002e65aff/tiles/{z}/{x}/{y}"
+  },
+  "Max water extent": {
+    "colorPalette": [
+      "#0000ff"
+    ],
+    "maxValue": 1,
+    "minValue": 0,
+    "url": "https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/maps/8ec025cfddf769ed56f8e723602c032b-ad2fabaa146c708931ac546a07b79e1c/tiles/{z}/{x}/{y}"
+  },
+  "Permanent water": {
+    "colorPalette": [
+      "#0000ff"
+    ],
+    "maxValue": 1,
+    "minValue": 0,
+    "url": "https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/maps/1cf4c9cbbebe255e46082605c38869c4-9d65506a43c1f34d36faf0ca84639ea7/tiles/{z}/{x}/{y}"
+  },
+  "Water occurrence": {
+    "colorPalette": [
+      "#ff00002b",
+      "#0000ff"
+    ],
+    "maxValue": 100,
+    "minValue": 0,
+    "url": "https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/maps/75915cc23ddd0e1c9f898bf664b8e1d7-706502b3d666ae055399eb465d9842a4/tiles/{z}/{x}/{y}"
+  }
+}
