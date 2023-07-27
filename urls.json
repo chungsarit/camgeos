@@ -29,9 +29,9 @@
   },
   "Water occurrence": {
     "colorPalette": [
-    'ffffff',
-       'ff0000', 
-      '0000ff'
+    "#ffffff",
+       "#ff0000", 
+      "#0000ff"
     ],
     "maxValue": 100,
     "minValue": 0,
